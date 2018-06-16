@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lukkan99
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lukkan99.github.io
+  * I am lukkan99 (https://keybase.io/lukkan99) on keybase.
+  * I have a public key ASB0g_GSf8jXBHyWW0a7_OBayyV9O9F5Zt7dIsONs8rUDQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012061813eeb988099debbbf7b7de9fe380bc1f6b9bb1a8997d8769b5b58f1e75b1a0a",
+      "host": "keybase.io",
+      "kid": "01207483f1927fc8d7047c965b46bbfce05acb257d3bd17966dedd22c38db3cad40d0a",
+      "uid": "1a859eb984afb513a1e8d18f5c16da19",
+      "username": "lukkan99"
+    },
+    "merkle_root": {
+      "ctime": 1529185379,
+      "hash": "a19230173aa4c765adcae101964cd893b6acfdbbf905133b2cc10cd5944c98b1a78a3d2878c9e19ccf2c89becfdc3973b175fa266c3d19729265aedb189f7c64",
+      "hash_meta": "024560f74fd0274257e870f899ebd107a937a5a769c7d0cc33ac67349f47ff1d",
+      "seqno": 3087074
+    },
+    "service": {
+      "entropy": "wIa3UAFCFkN886SLzjTRM7sS",
+      "hostname": "lukkan99.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.0"
+  },
+  "ctime": 1529185410,
+  "expire_in": 504576000,
+  "prev": "2884e4faee6812e1126131e7e2fcc48e56d590a1b2b78c8608e3f265bafa2790",
+  "seqno": 36,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdIPxkn/I1wR8lltGu/zgWsslfTvReWbe3SLDjbPK1A0Kp3BheWxvYWTESpcCJMQgKITk+u5oEuESYTHn4vzEjlbVkKGyt4yGCOPyZbr6J5DEIEbtIfxMqfQVtXCf10h5IjztpDQK8vIA0M8H3mt6we9cAgHCo3NpZ8RACioDXktVf12kVlDyofcfSjunJxbw/LwPVOi0Jw128fd7TtOGivkJY9WG5FCNDEkSipmdAVLhspX5DVQ9kxTLAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILK5D9TuhaL/b+fcA4KJa7osShH7TSXDvW/c0RkQSV4Zo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lukkan99
+
+==================================================================
